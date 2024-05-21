@@ -1,12 +1,14 @@
 # Data Scraping Analysis
 
 ## Overview
-This project is designed to scrape data from Trendyol to analyze top sellers' review information with a given URL. The data collected includes various details about products, reviews, and sellers, providing a comprehensive dataset for further analysis.
+This project is designed to scrape data from Trendyol to analyze top sellers' review information with a given URL. The data collected includes various details about products, reviews, and sellers, providing a comprehensive dataset for further analysis. 
 
 ## Features
 - **Product Information:** Includes product prices and ratings.
 - **Review Information:** Captures total rating counts, star ratings and their respective counts, text and images of reviews, and review dates.
 - **Seller Information:** Collects details about the sellers.
+
+It is possible to add more information by inspecting the website and the contents in HTML. However, additional information hasn't been included in the current implementation since it wasn't required.
 
 ## Implementation
 The project was initially implemented using a Colab notebook, but this method has become outdated. A local script is now available, which utilizes parallel processing for improved performance. The local script is in the form of an IPython Notebook (.ipynb) file.
@@ -18,12 +20,9 @@ The project was initially implemented using a Colab notebook, but this method ha
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/data-scraping-analysis.git
+    git clone https://github.com/basakozsoy/data-scraping-analysis.git
     ```
-2. Navigate to the project directory:
-    ```bash
-    cd data-scraping-analysis
-    ```
+2. Run the local or Colab(Outdated) script.
 
 ## Usage
 1. **Local Script (IPython Notebook):**
