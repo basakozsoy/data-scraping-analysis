@@ -1,4 +1,4 @@
-# Data Scraping Analysis
+# Trendyol data scraping
 
 ## Overview
 This project is designed to scrape data from Trendyol to analyze top sellers' review information with a given URL. The data collected includes various details about products, reviews, and sellers, providing a comprehensive dataset for further analysis. 
