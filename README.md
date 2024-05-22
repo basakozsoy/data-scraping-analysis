@@ -1,4 +1,4 @@
-# Data Scraping Analysis
+# Trendyol data scraping
 
 ## Overview
 This project is designed to scrape data from Trendyol to analyze top sellers' review information with a given URL. The data collected includes various details about products, reviews, and sellers, providing a comprehensive dataset for further analysis. 
@@ -20,7 +20,7 @@ The project was initially implemented using a Colab notebook, but this method ha
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/basakozsoy/data-scraping-analysis.git
+    git clone https://github.com/basakozsoy/trendyol-data-scraping.git
     ```
 2. Run the local or Colab(Outdated) script.
 
