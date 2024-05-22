@@ -28,7 +28,7 @@ The project was initially implemented using a Colab notebook, but this method ha
 1. **Local Script (IPython Notebook):**
     - Ensure all dependencies are installed.
     - Open the local IPython Notebook file (`.ipynb`) in Jupyter Notebook or JupyterLab.
-    - Define the base URL as `"https://www.trendyol.com/laptop-x-c103108?sst=BEST_SELLER&pi="`, set the end page variable like `end_page = 10`. You can also change the number of total workers for parallel processing by changing the `num_workers` parameter. 
+    - Define the base URL as `"https://www.trendyol.com/laptop-x-c103108?sst=BEST_SELLER&pi="`, set the end page variable like `end_page = 3`. You can also change the number of total workers for parallel processing by changing the `num_workers` parameter. 
     - Follow the instructions within the notebook to execute the cells and perform the scraping.
 
 2. **Colab Notebook (Outdated):**
